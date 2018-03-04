@@ -2,9 +2,8 @@
 Amoveo Cryptocurrency Miner for Gpu work to be used with [AmoveoPool.com](http://AmoveoPool.com). This only works for Windows NVidia cards with Cuda.
 
 Tested Gpu Speeds:
+* GTX1080: 359 Mh/s
 * TI750: 83 Mh/s
-* GTX1050: 23 Mh/s
-* GTX1060: 23 Mh/s
 * Tesla K80: 13 Mh/s
 
 
