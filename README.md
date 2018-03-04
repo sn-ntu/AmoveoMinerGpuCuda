@@ -3,8 +3,8 @@ Amoveo Cryptocurrency Miner for Gpu work to be used with [AmoveoPool.com](http:/
 
 Tested Gpu Speeds:
 * GTX1080: 359 Mh/s
-* TI750: 83 Mh/s
-* Tesla K80: 13 Mh/s
+* 750TI: 83 Mh/s
+* Tesla K80: 130 Mh/s
 
 
 ## Windows
