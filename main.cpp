@@ -118,7 +118,6 @@ __device__ bool checkResult(unsigned char* h, size_t diff) {
 		break;
 	}
 	y[0] = x;
-	// The >= check works!  The > check is throwing away good values.
 	return(((256 * y[0]) + y[1]) >= diff);
 }
 
